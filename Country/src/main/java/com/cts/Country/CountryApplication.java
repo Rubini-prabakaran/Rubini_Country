@@ -1,13 +1,13 @@
-package com.cts.Organization;
+package com.cts.Country;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OrganizationApplication {
+public class CountryApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OrganizationApplication.class, args);
+		SpringApplication.run(CountryApplication.class, args);
 	}
 
 }
